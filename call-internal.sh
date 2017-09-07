@@ -1,0 +1,1 @@
+gcloud beta functions call gcfTemplate --data '{"name":"Called internally"}'

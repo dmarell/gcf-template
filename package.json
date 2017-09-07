@@ -1,0 +1,17 @@
+{
+  "name": "gcf-template",
+  "description": "Template module for a Google Cloud Function",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "mocha": "~3.1.2",
+    "should": "^9.0.2",
+    "standard": "^10.0.3",
+    "supertest": "~2.0.1",
+    "unit.js": "^2.0.0"
+  },
+  "dependencies": {
+  }
+}
